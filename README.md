@@ -53,7 +53,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 ### Local Deploy - Traditional Method
 - Get your [Necessary Variables](#Necessary-Variables)
 - Clone the repository:    
-`git clone https://github.com/TeamUltroid/Ultroid.git`
+`git clone https://github.com/reyad2504/Ultroid.git`
 - Go to the cloned folder:    
 `cd Ultroid`
 - Create a virtual env:      
@@ -71,7 +71,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
     `sh -c "$(curl -fsSL https://git.io/JqgsR)"`
   - For Windows Users:
     `cd desktop ; wget https://git.io/JY9JI -o ultroid.py ; python ultroid.py`
-- Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/TeamUltroid/Ultroid/blob/main/.env.sample).
+- Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/reyad2504/Ultroid/blob/main/.env.sample).
 (You can either edit and rename the file or make a new file named `.env`.)
 - Run the bot:
   - Linux Users:
@@ -99,7 +99,7 @@ Take a look at the [`docs`](https://blue-devil1134.github.io/UltroidCli/) for mo
 
 ## Session String
 Different ways to get your `SESSION`:
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
+* [![Run on Repl.it](https://replit.com/badge/github/reyad2504/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
 * Linux : `bash -c "$(curl -fsSL https://git.io/JY9JI)"`
 * PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
 * Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
